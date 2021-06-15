@@ -7,19 +7,23 @@ Evaluating sensitivity of urban policy on spatial transformation and urban growt
 =================================================================================
 
 
-## Description:
+## Description
 
 This repository contains the data used in the research "Evaluating sensitivity of urban policy on spatial transformation and urban growth", by ChengHe Guan, Jairo A. Gómez, Pratyush Tripathy, Juan C. Duque, Santiago Passos, Tong Cheng, and Michael Keith.
 
-#### Evaluating sensitivity of urban policy on spatial transformation and urban growth
+#### "Evaluating sensitivity of urban policy on spatial transformation and urban growth"
 
-ChengHe Guan <sup>1</sup> <sup>3</sup>, Jairo A. Gómez <sup>2</sup>, Pratyush Tripathy <sup>3</sup>, Juan C. Duque <sup>4</sup>, Santiago Passos <sup>4</sup>, Tong Cheng <sup>1</sup>, and Michael Keith <sup>3</sup>
+ChengHe Guan <sup>1</sup> <sup>3</sup>, Jairo A. Gómez <sup>2</sup>, Pratyush Tripathy <sup>5</sup>, Juan C. Duque <sup>4</sup>, Santiago Passos <sup>4</sup>, Tong Cheng <sup>1</sup>, and Michael Keith <sup>3</sup>
 
-<sup>1</sup> Arts and Sciences, New York University Shanghai
-<sup>2</sup> i2t Research Group, Department of Communication and Information Technologies, Universidad Icesi
-<sup>3</sup> COMPAS, School of Anthropology, University of Oxford
-<sup>4</sup> Research in Spatial Economics (RiSE) Group, Department of Mathematical Sciences, Universidad EAFIT
-<sup>5</sup> Geospatial Lab, Indian Institute for Human Settlements
+<sup>1</sup> Arts and Sciences, New York University Shanghai. 1555 Century Avenue, Pudong New District. Zip code 200122. Shanghai, China. chenghe.guan@nyu.edu.
+
+<sup>2</sup> i2t Research Group, Department of Communication and Information Technologies, Universidad Icesi, Calle 18 No. 122-135, Pance. Zip code 760031. Cali, Valle del Cauca, Colombia. jagomez3@icesi.edu.co.
+
+<sup>3</sup> COMPAS, School of Anthropology, University of Oxford. 58 Banbury Road, Oxford, OX2 6QS. Oxford, UK. michael.keith@compas.ox.ac.uk.
+
+<sup>4</sup> Research in Spatial Economics (RiSE) Group, Department of Mathematical Sciences, EAFIT University, Carrera 48 A 10 Sur 107, Casa 4, oficina RiSE. Zip code 050022. Medellín, Antioquia, Colombia. jduquec1@eafit.edu.co (J.C.D.); spassos@eafit.edu.co (S.P.).
+
+<sup>5</sup> Geospatial Lab, Indian Institute for Human Settlements. IIHS Bengaluru City Campus, 197/36, 2nd Main Road, Sadashivanagar, Bengaluru 560 080, India. pratyush@iihs.ac.in.
 
 __maintainer__ = "RiSE Group"  (http://www.rise-group.org/). Universidad EAFIT
 
