@@ -3,7 +3,7 @@
 <img src="figs/logo_rise_eafit.png" alt="RiSE-group logo" align="middle" width ="380" height="100">
 
 
-Evaluating sensitivity of planning policy on urban growth using the Machine Learning and the SLEUTH Cellular Automata models
+Evaluating the sensitivity of water protection policy on urban growth predictions using models based on machine learning and the SLEUTH CA: A case study of Jiaxing
 =================================================================================
 
 
@@ -11,7 +11,7 @@ Evaluating sensitivity of planning policy on urban growth using the Machine Lear
 
 This repository contains the data used in the research "Evaluating sensitivity of planning policy on urban growth using the Machine Learning and the SLEUTH Cellular Automata models", by ChengHe Guan, Jairo A. Gómez, Pratyush Tripathy, Juan C. Duque, Santiago Passos, Tong Cheng, and Michael Keith.
 
-#### "Evaluating sensitivity of planning policy on urban growth using the Machine Learning and the SLEUTH Cellular Automata models"
+#### "Evaluating the sensitivity of water protection policy on urban growth predictions using models based on machine learning and the SLEUTH CA: A case study of Jiaxing"
 
 ChengHe Guan <sup>1</sup> <sup>3</sup>, Jairo A. Gómez <sup>2</sup>, Pratyush Tripathy <sup>5</sup>, Juan C. Duque <sup>4</sup>, Santiago Passos <sup>4</sup>, Tong Cheng <sup>1</sup>, and Michael Keith <sup>3</sup>
 
@@ -42,7 +42,7 @@ While the process of China’s urbanization occurred during the early stages fav
 ```tex
 @Article{xxxxx,
 AUTHOR = {Guan, ChengHe and Gómez, Jairo Alejandro and Tripathy, Pratyush and Duque, Juan Carlos and Passos, Santiago and Cheng, Tong and Keith, Michael},
-TITLE = {Evaluating sensitivity of urban policy on spatial transformation and urban growth},
+TITLE = {Evaluating the sensitivity of water protection policy on urban growth predictions using models based on machine learning and the SLEUTH CA: A case study of Jiaxing},
 JOURNAL = {xxxxxxxxxxx},
 VOLUME = {xxxxx},
 YEAR = {2021},
