@@ -40,7 +40,7 @@ In the early stage, China’s urbanization policy favored large cities. However,
 ## Bibtext entry
 
 ```tex
-@Article{xxxxx,
+@Article{Guan2022,
 AUTHOR = {Guan, ChengHe and Gómez, Jairo Alejandro and Tripathy, Pratyush and Duque, Juan Carlos and Passos, Santiago and Cheng, Tong and Keith, Michael},
 TITLE = {Evaluating the sensitivity of water protection policy on urban growth using models based on machine learning and the SLEUTH CA: A case study of Jiaxing},
 JOURNAL = {xxxxxxxxxxx},
