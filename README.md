@@ -31,7 +31,7 @@ __Corresponding author__ = xxxx@xxxxxxx
 
 ### Abstract
 
-Update it with the final version.
+Recent urbanization policy in China has shifted its focus to smaller cities. In this paper, we simulate different water protection policies which are essential for sustainable development. We applied two urban growth models, a machine-learning-based (ML) model and a SLEUTH Cellular Automata (CA) model, to test water protection policy-informed urban growth scenarios from 2021 to 2040. The results show that an urban policy with a 400 m water protection area demonstrates the strongest alignment, in terms of realization of each land use functional area, with urban planning goals of Jiaxing. Moreover, the consideration of grandfather clauses by allowing residents to remain in the water protected zones in the ML model replicates the ground reality to safeguard the existing social network. The paper contributes to the existing studies of urban growth modeling in the following ways: (1) it focuses on the sustainable development of a less studied small city that is important to linking megacities together; (2) it shows how geodata and advances in informatics can help understand the relationship between urban growth and the environment. Understanding intricate relationships in cities worldwide through methods proposed in the paper can inform policy-making and infrastructure investments which are critical for them; (3) our work contributes to a growing body of literature that shows that results can vary when using different urban growth models, in this case, the ML and the SLEUTH CA models. Hence, concluding solely from the output of one type of model can be detrimental to the eventual decision-making process.
 
 ## License
 
@@ -43,14 +43,14 @@ Update it with the final version.
 @Article{Guan2022,
 AUTHOR = {Guan, ChengHe and Gómez, Jairo Alejandro and Tripathy, Pratyush and Duque, Juan Carlos and Passos, Santiago and Cheng, Tong and Keith, Michael},
 TITLE = {Evaluating the sensitivity of water protection policy on urban growth using models based on machine learning and the SLEUTH CA: A case study of Jiaxing},
-JOURNAL = {xxxxxxxxxxx},
+JOURNAL = {Environment and Planning B: Urban Analytics and City Science},
 VOLUME = {xxxxx},
 YEAR = {2022},
 NUMBER = {xxxxxx},
 ARTICLE-NUMBER = {xxxx},
 URL = {xxxxxxxxxxxxxxxxxxxxxxxxxx},
 ISSN = {xxxxxxxxx},
-ABSTRACT = {Update it with the final version.},
+ABSTRACT = {Recent urbanization policy in China has shifted its focus to smaller cities. In this paper, we simulate different water protection policies which are essential for sustainable development. We applied two urban growth models, a machine-learning-based (ML) model and a SLEUTH Cellular Automata (CA) model, to test water protection policy-informed urban growth scenarios from 2021 to 2040. The results show that an urban policy with a 400 m water protection area demonstrates the strongest alignment, in terms of realization of each land use functional area, with urban planning goals of Jiaxing. Moreover, the consideration of grandfather clauses by allowing residents to remain in the water protected zones in the ML model replicates the ground reality to safeguard the existing social network. The paper contributes to the existing studies of urban growth modeling in the following ways: (1) it focuses on the sustainable development of a less studied small city that is important to linking megacities together; (2) it shows how geodata and advances in informatics can help understand the relationship between urban growth and the environment. Understanding intricate relationships in cities worldwide through methods proposed in the paper can inform policy-making and infrastructure investments which are critical for them; (3) our work contributes to a growing body of literature that shows that results can vary when using different urban growth models, in this case, the ML and the SLEUTH CA models. Hence, concluding solely from the output of one type of model can be detrimental to the eventual decision-making process.},
 DOI = {xxxxxxxxxxxxxxxx}
 }
 ```
